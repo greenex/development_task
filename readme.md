@@ -18,3 +18,10 @@ add dummy data
 ```bash
 php artisan db:seed
 ```
+
+## Run Server
+
+```bash
+php artisan serve --port=2020
+```
+
